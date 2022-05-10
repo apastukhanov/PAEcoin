@@ -22,4 +22,6 @@ public class Transaction implements Serializable{
     private String signatureFX;
     private Integer ledgerId;
 
+
+
 }
